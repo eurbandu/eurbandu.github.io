@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eurbandu.github.io/sitemap.html.gz
+Sitemap: https://eurbandu.github.io/app/sitemap.html.gz
+Sitemap: https://eurbandu.github.io/assets/sitemap.html.gz
+Sitemap: https://eurbandu.github.io/css/sitemap.html.gz
+Sitemap: https://eurbandu.github.io/includes/sitemap.html.gz
+Sitemap: https://eurbandu.github.io/item/sitemap.html.gz
+Sitemap: https://eurbandu.github.io/src/sitemap.html.gz
